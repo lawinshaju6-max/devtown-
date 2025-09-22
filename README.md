@@ -9,7 +9,7 @@ It is part of the **Dev Town Assignment** on Authentication.
 
 ---
 
-## ⚙ Features
+##  Features
 - User **registration** with hashed passwords.
 - User **login** with password verification.
 - JWT token generation on successful login.
